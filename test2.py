@@ -1,5 +1,3 @@
-# String tests
-
 # Labsheet 4a
 def three_copies():
     myin = str(input())
