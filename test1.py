@@ -22,6 +22,7 @@ def myfunc():
 
 myfunc()
 
-print("Random number: ")
+'''print("Random number: ")
 print(random.randrange(1, 100))
 print(john.format(x))
+'''
